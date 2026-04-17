@@ -28,8 +28,6 @@
 - **Zero extra fine-tuning** — pure **Domain-Adaptive Pre-Training (DAPT)** + **LaBSE** noise removal
 - **Runs entirely on free Kaggle dual-T4 GPUs** (≈3–4 hours)
 
-> “A single epoch of thoughtful pre-training can teach a model not just words, but the *soul* of a language.”  
-> — Project Report, 2026
 
 ---
 
