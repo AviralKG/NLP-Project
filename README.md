@@ -5,7 +5,7 @@
 
 **Fine-Tuning Helsinki MarianMT (`opus-mt-inc-en`) with Samanantar + LaBSE Quality Filtering**
 
-![Project Banner](https://github.com/yourusername/hindi-nmt-premchand/raw/main/assets/banner-devanagari-english.png)
+
 
 [![Kaggle Notebook](https://img.shields.io/badge/▶_Run_on_Kaggle-0357A5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/aviral-kumar-goyal/helsinki-nlp-opus-mt-inc-en-samanantar-dapt)  
 [![Hugging Face Model](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Helsinki-NLP/opus-mt-inc-en)  
