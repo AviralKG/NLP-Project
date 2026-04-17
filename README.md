@@ -6,14 +6,6 @@
 **Fine-Tuning Helsinki MarianMT (`opus-mt-inc-en`) with Samanantar + LaBSE Quality Filtering**
 
 
-
-[![Kaggle Notebook](https://img.shields.io/badge/▶_Run_on_Kaggle-0357A5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/aviral-kumar-goyal/helsinki-nlp-opus-mt-inc-en-samanantar-dapt)  
-[![Hugging Face Model](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Helsinki-NLP/opus-mt-inc-en)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)  
-[![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)  
-[![MNIT Jaipur](https://img.shields.io/badge/MNIT_Jaipur-0066CC?style=for-the-badge)](https://www.mnit.ac.in/)
-
-
 </div>
 
 ---
