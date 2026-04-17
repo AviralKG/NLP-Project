@@ -9,6 +9,12 @@
 </div>
 
 ---
+### ✨ **Files Included**
+1. Notebook - Complete Code
+2. Presentation - PPT/slides of the Project
+3. Project PDF - Full Project Report in LaTex
+4. Presentation Demo - Video Presentation of Slides
+
 
 ### ✨ **The Transformation (Report Highlights)**
 
